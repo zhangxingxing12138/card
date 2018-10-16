@@ -1,0 +1,6 @@
+a=input("直角边a:")
+b=input("直角边b:")
+A=float(a)
+B=float(b)
+c=(A*A+B*B)**(1/2)
+print(c)
